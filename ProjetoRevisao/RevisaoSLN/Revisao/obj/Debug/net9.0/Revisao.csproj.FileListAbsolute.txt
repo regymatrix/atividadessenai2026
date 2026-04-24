@@ -1,0 +1,15 @@
+C:\Users\professor.cetafest\Documents\GitReginaldo\atividadessenai2026\ProjetoRevisao\RevisaoSLN\Revisao\bin\Debug\net9.0\Revisao.exe
+C:\Users\professor.cetafest\Documents\GitReginaldo\atividadessenai2026\ProjetoRevisao\RevisaoSLN\Revisao\bin\Debug\net9.0\Revisao.deps.json
+C:\Users\professor.cetafest\Documents\GitReginaldo\atividadessenai2026\ProjetoRevisao\RevisaoSLN\Revisao\bin\Debug\net9.0\Revisao.runtimeconfig.json
+C:\Users\professor.cetafest\Documents\GitReginaldo\atividadessenai2026\ProjetoRevisao\RevisaoSLN\Revisao\bin\Debug\net9.0\Revisao.dll
+C:\Users\professor.cetafest\Documents\GitReginaldo\atividadessenai2026\ProjetoRevisao\RevisaoSLN\Revisao\bin\Debug\net9.0\Revisao.pdb
+C:\Users\professor.cetafest\Documents\GitReginaldo\atividadessenai2026\ProjetoRevisao\RevisaoSLN\Revisao\obj\Debug\net9.0\Revisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\professor.cetafest\Documents\GitReginaldo\atividadessenai2026\ProjetoRevisao\RevisaoSLN\Revisao\obj\Debug\net9.0\Revisao.AssemblyInfoInputs.cache
+C:\Users\professor.cetafest\Documents\GitReginaldo\atividadessenai2026\ProjetoRevisao\RevisaoSLN\Revisao\obj\Debug\net9.0\Revisao.AssemblyInfo.cs
+C:\Users\professor.cetafest\Documents\GitReginaldo\atividadessenai2026\ProjetoRevisao\RevisaoSLN\Revisao\obj\Debug\net9.0\Revisao.csproj.CoreCompileInputs.cache
+C:\Users\professor.cetafest\Documents\GitReginaldo\atividadessenai2026\ProjetoRevisao\RevisaoSLN\Revisao\obj\Debug\net9.0\Revisao.sourcelink.json
+C:\Users\professor.cetafest\Documents\GitReginaldo\atividadessenai2026\ProjetoRevisao\RevisaoSLN\Revisao\obj\Debug\net9.0\Revisao.dll
+C:\Users\professor.cetafest\Documents\GitReginaldo\atividadessenai2026\ProjetoRevisao\RevisaoSLN\Revisao\obj\Debug\net9.0\refint\Revisao.dll
+C:\Users\professor.cetafest\Documents\GitReginaldo\atividadessenai2026\ProjetoRevisao\RevisaoSLN\Revisao\obj\Debug\net9.0\Revisao.pdb
+C:\Users\professor.cetafest\Documents\GitReginaldo\atividadessenai2026\ProjetoRevisao\RevisaoSLN\Revisao\obj\Debug\net9.0\Revisao.genruntimeconfig.cache
+C:\Users\professor.cetafest\Documents\GitReginaldo\atividadessenai2026\ProjetoRevisao\RevisaoSLN\Revisao\obj\Debug\net9.0\ref\Revisao.dll
